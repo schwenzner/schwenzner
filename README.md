@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RodolphGeorges
 - 👀 I’m a retired enthusiast interested in Web Development
-- 🌱 I have learned Javascript and React from its frameworks
-- 🌱 I’m currently learning Gatsby
+- 🌱 I have learned many web technologies over the years
+- 🌱 I’m currently working mainly with React, Next, Flutter, and Laravel
 - 📫 I can be reached on my email rschwenzner@gmail.com
 
 <!---
